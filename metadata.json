@@ -1,0 +1,7 @@
+{
+  "name": "Black Hacks MP Performance Tracker",
+  "description": "An AI-powered dashboard for multiplayer team managers to track player performance from match screenshots. Features automated OCR extraction, performance trends, and detailed player analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
